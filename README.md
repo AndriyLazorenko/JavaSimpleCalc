@@ -1,2 +1,2 @@
 # JavaSimpleCalc
-Console calculator on java with some functionality
+Console calculator on java with some functionality and fractions
